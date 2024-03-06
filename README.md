@@ -2,12 +2,6 @@
 	<img src="https://i.ibb.co/gWgwg2m/230.png">
 </p>
 
-<p align="center">
-	<a href="https://travis-ci.org/SupianIDz/OctopyFramework">
-		<img src="https://travis-ci.org/SupianIDz/OctopyFramework.svg?branch=master" alt="Build Status">
-	</a>
-</p>
-
 > Octopy framework is built on a small footprint, speed reason but still feel the beauty of Laravel's. 
 > Over time Laravel has outpaced Octopy in terms of speed and is more mature and much better hardware than a few years ago at a price so low that the reason for the small footprint is not an issue anymore. 
 > Then for security reasons and developer activity, the Octopy framework will be left without any updates.
@@ -46,7 +40,7 @@ Thank you for considering contributing to the Octopy framework! The contribution
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Octopy, please send an e-mail to Supian M via [supianidz@gmail.com](mailto:supianidz@gmail.com). All security vulnerabilities will
+If you discover a security vulnerability within Octopy, please send an e-mail to Supian M via [bug@octopy.dev](mailto:bug@octopy.dev). All security vulnerabilities will
 be promptly addressed.
 
 ## License
@@ -59,4 +53,4 @@ Please pay for my cup of coffee by hitting the star button :smiley:
 
 Crafted with :heart: from Kandangan, Indonesia
 
-Copyright 2018 - 2020 by [Supian M](mailto:supianidz@gmail.com)
+Copyright 2018 - 2020 by [Supian M](mailto:bug@octopy.dev)
